@@ -53,6 +53,16 @@ The objective is to identify funnel drop-offs, evaluate ROI, and derive actionab
 - ROI variation is driven more by conversion efficiency than budget size
 
 ---
+## Key Business Insights
+- Significant drop-off observed between Impressions and Clicks, indicating targeting or creative inefficiency.
+- ROI varies more due to conversion efficiency than acquisition cost.
+
+
+## Recommendations
+- Optimize ad creatives and audience targeting to reduce early funnel drop-offs.
+- Focus on conversion optimization rather than increasing spend.
+
+
 
 ## ✅ Conclusion
 This project demonstrates an end-to-end data analytics workflow, combining Python-based data preparation with business-focused Power BI dashboards.
